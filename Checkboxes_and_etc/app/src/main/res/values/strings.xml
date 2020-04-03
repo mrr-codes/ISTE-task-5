@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Checkboxes_and_etc</string>
+    <string name="brownie_text">Brownie</string>
+    <string name="sprinkles_text">Sprinkles</string>
+    <string name="cookies_text">Cookies</string>
+    <string name="show_toast_label">Show Toast</string>
+</resources>
